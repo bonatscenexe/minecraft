@@ -1,2 +1,2 @@
 # minecraft
-fb-minecraft on glitch
+classic mc assets
